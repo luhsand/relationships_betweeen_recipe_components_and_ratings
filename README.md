@@ -1,1 +1,2 @@
-# relationships_betweeen_recipe_components_and_ratings
+# Exploring Relationships Betweeen Recipe Components And Ratings
+# Using a 2008 Dataset
